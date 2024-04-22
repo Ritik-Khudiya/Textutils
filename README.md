@@ -1,2 +1,2 @@
-# react-course
+# Developed textutils using react.js
  
